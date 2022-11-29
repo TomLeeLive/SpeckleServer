@@ -44,7 +44,7 @@ redis                                7.0-alpine    96a149ad0157   13 days ago   
 
 postgres                             14.5-alpine   aac01494762a   7 weeks ago     216MB
 
-# folder must be created in same directory
+# these must be created in same directory
 
 minio-data
 
