@@ -6,6 +6,8 @@ Docker 20.10.6
 
 Python 3.8.5
 
+nginx version: nginx/1.18.0 (Ubuntu)
+
 # in this repo. (local directory: /opt/speckle-server)
 
 docker-compose.yml
@@ -17,6 +19,10 @@ template-docker-compose.yml
 template-nginx-site.conf
 
 update.sh
+
+# unzip nginx.zip to specific location like this
+
+sudo unzip nginx.zip -d /etc/
 
 # checked docker image id
 
