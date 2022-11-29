@@ -1,20 +1,20 @@
 # Enviroment
 
--Ubuntu 20.04.2 LTS
+Ubuntu 20.04.2 LTS
 
--Docker 20.10.6
+Docker 20.10.6
 
 # in this repo. (local directory: /opt/speckle-server)
 
--docker-compose.yml
+docker-compose.yml
 
--setup.py
+setup.py
 
--template-docker-compose.yml
+template-docker-compose.yml
 
--template-nginx-site.conf
+template-nginx-site.conf
 
--update.sh
+update.sh
 
 # checked docker image id
 
@@ -38,14 +38,14 @@ postgres                             14.5-alpine   aac01494762a   7 weeks ago   
 
 # folder must be created in same directory
 
--minio-data
+minio-data
 
--postgres-data
+postgres-data
 
--redis-data
+redis-data
 
 # checked with
 
--revit connector v2.9.3
+revit connector v2.9.3
 
--manager v2.6.1
+manager v2.6.1
