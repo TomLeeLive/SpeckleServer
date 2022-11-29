@@ -4,6 +4,8 @@ Ubuntu 20.04.2 LTS
 
 Docker 20.10.6
 
+Python 3.8.5
+
 # in this repo. (local directory: /opt/speckle-server)
 
 docker-compose.yml
