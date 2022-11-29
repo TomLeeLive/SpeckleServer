@@ -54,9 +54,11 @@ redis-data
 
 # checked with
 
-revit connector v2.9.3
+speckle manager v2.6.1
 
-manager v2.6.1
+revit 2021 - speckle connector v2.9.3
+
+blender v3.3.1 - speckle connector v2.9.1
 
 # Last checked date
 
