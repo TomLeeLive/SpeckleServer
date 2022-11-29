@@ -1,4 +1,4 @@
-# Enviroment
+# Environment
 
 Ubuntu 20.04.2 LTS
 
